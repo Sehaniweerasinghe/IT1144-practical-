@@ -1,0 +1,41 @@
+body{background-color: #F1F5F9 ;
+}
+
+h1{background-color: #1E3A8A;
+   color: #F9FAFB;
+font-style:;
+   }
+   
+.exhibition{background-color:rgba(255,255,255,0.9);}
+.p1{
+	border-style:solid;
+    border-radius:15px;
+	padding:5px;
+	margin:15px;
+	
+	
+	}
+	
+.p2{border-style:solid;
+    border-radius:15px;
+	padding:5px;
+	margin:15px;
+	
+}
+
+.p3{border-style:solid;
+    border-radius:15px;
+	padding:5px;
+    margin:15px;
+	}
+.p1 h3{color: #1E3A8A;}
+.p2 h3{color: #1E3A8A;}
+.p3 h3{color: #1E3A8A;}
+
+.button{
+	
+	
+}
+footer{background-color: #1E3A8A;
+       
+}

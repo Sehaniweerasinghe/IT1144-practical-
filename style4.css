@@ -1,0 +1,31 @@
+:root{
+	
+	
+	
+}
+body{
+	background-color:#0d0d0d;
+	color:#faf9f6;}
+.heading{display:flex;}
+.head2{color:#c8401a;}
+	
+.nav{
+	height:40px;
+	width:100%;
+	background-color:#0d0d0d;
+	justify-content:space-between;
+	align-items:center;
+	position:stickly;
+	top:0;
+	display:flex;
+}
+.nav li{color:#6b6860;
+       
+}
+.style{
+	background-color:#1a3c8f;
+	width:100px
+	height:100px;
+	}
+.button{
+          button-color:red;}
